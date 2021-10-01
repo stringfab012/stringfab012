@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stringfab012
-- 👀 I’m interested in C,C++,Web Devlopment and Electronics.
+- 👋 Hi, I’m Manish.
+- 👀 I’m interested in C,C++,Assembly Languages,Web Devlopment and Electronics.
 - 🌱 I’m currently learning Web Devlopment.
 - 📫 You can reach me at stringfab012@gmail.com
 
