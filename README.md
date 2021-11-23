@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Header](https://github.com/stringfab012/stringfab012/blob/main/images/banner.png)
+![Header](https://github.com/stringfab012/stringfab012/blob/main/banner
+/banner.png)
 
 
 **Hello folks**👋
@@ -36,12 +37,22 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
 | ------------- | ------------- |
 
 
-**🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/ManishT07499201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manish-tomar-7b3126207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tomar_manish012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+#### Top Repositories
 
 
+<a href="https://github.com/stringfab012/Thermobox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Thermobox&theme=buefy" />
+</a>
+<a href="https://github.com/stringfab012/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Portfolio&theme=buefy" />
+</a>
 
-[1.1]: https://i.imgur.com/Vahbdkj.png (linkedin icon)
+<br />
+<br />
+
+<a href="https://twitter.com/ManishT07499201">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/manish-tomar-7b3126207/">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
