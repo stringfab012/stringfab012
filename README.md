@@ -43,7 +43,7 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Resumemaker&theme=buefy" />
 </a>
 <a href="https://github.com/stringfab012/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Thermobox&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Portfolio&theme=buefy" />
 </a>
 
 <br />
