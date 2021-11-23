@@ -39,11 +39,11 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
 #### Top Repositories
 
 
-<a href="https://github.com/stringfab012/Thermobox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Resumemaker&theme=buefy" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/stringfab012/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Portfolio&theme=buefy" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
