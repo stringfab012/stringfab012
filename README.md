@@ -36,7 +36,7 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringfab012&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/stringfab012/stringfab012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AashimaAhuja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stringfab012&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
 </a>
 <a href="https://github.com/stringfab012/stringfab012">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Thermobox&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
