@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Header](https://github.com/stringfab012/stringfab012/blob/main/banner
-/banner.png)
+![Header](https://github.com/stringfab012/stringfab012/blob/main/banner/banner.png)
 
 
 **Hello folks**👋
