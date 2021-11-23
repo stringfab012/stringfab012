@@ -27,26 +27,14 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="angular" width="40" height="40"/>
 </p>
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/stringfab012/stringfab012/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringfab012&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/stringfab012/stringfab012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stringfab012&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
-</a>
-<a href="https://github.com/stringfab012/stringfab012">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Thermobox&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/stringfab012/stringfab012">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stringfab012&repo=Thermobox%20&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/stringfab012/stringfab012">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+| <a href="https://github.com/stringfab012/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stringfab012&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manish's github stats" /></a> | <a href="https://github.com/stringfab012/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringfab012&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
