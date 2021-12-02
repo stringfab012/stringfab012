@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 
 **Hello folks**👋
-- 👋 Hi, I’m Manish.
+- 👋 I’m Manish.
 - 👀 I’m interested in C,C++,Assembly Languages,Web Devlopment and Electronics.
 - 🌱 I’m currently learning Web Devlopment.
-- 📫 You can reach me at <a href="stringfab012@gmail.com">Here</a>
+- 📫 You can reach me at <a href="mailto:stringfab012@gmail.com">Here</a>
 
 
 
