@@ -49,6 +49,8 @@ Apart from coding , I am Electronics enthusiast and a have deep interest in Micr
 <br />
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stringfab012" alt="stringfab012" /> </p>
+
 <a href="https://twitter.com/ManishT07499201">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
